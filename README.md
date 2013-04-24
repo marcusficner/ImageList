@@ -5,4 +5,7 @@ Script that lists all images from a directory in a html page.
 
 ###Usage
 
-$ ImageList _path_to_directory_
+Make the script executable
+```chmod a+x ImageList.py``` 
+
+```$ ./ImageList.py _path_to_directory_```
