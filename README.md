@@ -11,4 +11,4 @@ Make the script executable
 ```$ ./ImageList.py _path_to_directory_```
 
 ###Example output
-[](https://raw.github.com/wiki/mficner/ImageList/files/example.png)
+![](https://raw.github.com/wiki/mficner/ImageList/files/example.png)
