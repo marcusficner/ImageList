@@ -12,3 +12,7 @@ Make the script executable
 
 ###Example output
 ![](https://raw.github.com/wiki/mficner/ImageList/files/example.png)
+
+
+## Dependency
+* PIL - [Python Image Library](http://www.pythonware.com/products/pil)
